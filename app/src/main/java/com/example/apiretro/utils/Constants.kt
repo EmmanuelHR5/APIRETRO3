@@ -6,6 +6,8 @@ class Constants {
         const val ENDPOINT="games"
         const val API_KEY="4c70b5173e0b4edd81db4d0a925b9415"
 
-        const val CUSTOM_BLACK=""
+        const val CUSTOM_BLACK = 0xFF2B2626
+
+        const val CUSTOM_GREEN = 0xFF209B14
     }
 }
